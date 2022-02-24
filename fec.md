@@ -16,4 +16,4 @@
 5. !['Pivot table 1'](/Pivottable1.png)
 6. Highest contributor to D is Media Entertainment industry, of $1,880,000.00
 7. Highest contributor to R is Republican/Conservative industry, of $7,514,000.00
-8. 
+8. !['Solution Q1'](/SolutionQ1.png)

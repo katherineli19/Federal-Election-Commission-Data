@@ -13,4 +13,4 @@
 2. Create pivot table
 3. Industry for rows, Party for Columns, Amount for Values
 4. Use =max() function to find the highest doenr industry 
-5. 
+5. !['Pivot table 1'](/Pivottable1.png)

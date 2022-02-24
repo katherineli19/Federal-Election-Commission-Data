@@ -27,3 +27,4 @@
 6. Total amount is $3,520,000.00 for Misc. Business sector contribution to Democratic Party
 7. Filter City column for Miami Lakes
 8. 2 results forn Miami Lakes, FL, both by Windmere Corp
+9. !['Solution Q2'](/SolutionQ2.png)

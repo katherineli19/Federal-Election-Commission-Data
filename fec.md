@@ -14,3 +14,6 @@
 3. Industry for rows, Party for Columns, Amount for Values
 4. Use =max() function to find the highest doenr industry 
 5. !['Pivot table 1'](/Pivottable1.png)
+6. Highest contributor to D is Media Entertainment industry, of $1,880,000.00
+7. Highest contributor to R is Republican/Conservative industry, of $7,514,000.00
+8. 

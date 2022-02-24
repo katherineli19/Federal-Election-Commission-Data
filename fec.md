@@ -37,3 +37,13 @@
 5. Use =sum() fucntion to find percentage Philip Morris/tobacco industry total
 6. Philip Morris accounts for about 69% of total tobacco industry contributions, $2,070,000.00
 7. !['Solution Q3'](/SolutionQ3.png)
+
+## Q4
+Headline: Main source of Republican donations to come from PAC endorsements 
+1. Political analysts, professors and experts, to ask about how republicans form their own political ecosystems to self sustain 
+2. Former republican politicians, people involved in PAC 
+3. Potential former employees of PAC organisations such as the American Action Network
+4. PAC endorsements often fund expenses that are ineligible to be paid by campaign committees or congressional offices, in what ways does that give one politician advantages over others? 
+5. How is this being used to stop new challengers to a seat? And to what extent is this consolidating establishemnt powers and preventing progress within the party?
+
+Q5

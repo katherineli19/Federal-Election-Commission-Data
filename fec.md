@@ -46,4 +46,6 @@ Headline: Main source of Republican donations to come from PAC endorsements
 4. PAC endorsements often fund expenses that are ineligible to be paid by campaign committees or congressional offices, in what ways does that give one politician advantages over others? 
 5. How is this being used to stop new challengers to a seat? And to what extent is this consolidating establishemnt powers and preventing progress within the party?
 
-Q5
+## Q5
+1. Data on campaign spending for both parties to see what kind of strategy they are adopting
+2. More detailed breakdown of which conservative/republican organisation are top contributors. Data can be found on Opeansecretes website, and if we look at new data from 2021-2022, One Nation as a top contributor spent nearly $1.9 million across five states, launching an ad blitz to build opposition against the Democrats' election reform legislation.

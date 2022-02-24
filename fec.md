@@ -23,8 +23,17 @@
 2. Copy that onto new sheet
 3. Filter Party column for D
 4. Copy that onto new sheet
-5. Use =sum() fucntion to find total amoount
+5. Use =sum() function to find total amoount
 6. Total amount is $3,520,000.00 for Misc. Business sector contribution to Democratic Party
 7. Filter City column for Miami Lakes
 8. 2 results forn Miami Lakes, FL, both by Windmere Corp
 9. !['Solution Q2'](/SolutionQ2.png)
+
+## Q3
+1. Sort A to Z to find Tobacco industry 
+2. Copy that onto new sheet
+3. Use =sum() function to find total amoount of tobacco industry
+4. Use =sum() function to find total amoount for Philip Morris
+5. Use =sum() fucntion to find percentage Philip Morris/tobacco industry total
+6. Philip Morris accounts for about 69% of total tobacco industry contributions, $2,070,000.00
+7. 

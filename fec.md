@@ -36,4 +36,4 @@
 4. Use =sum() function to find total amoount for Philip Morris
 5. Use =sum() fucntion to find percentage Philip Morris/tobacco industry total
 6. Philip Morris accounts for about 69% of total tobacco industry contributions, $2,070,000.00
-7. 
+7. !['Solution Q3'](/SolutionQ3.png)
